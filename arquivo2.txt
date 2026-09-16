@@ -1,1 +1,2 @@
 Este é o segundo arquivo do laboratório de Git
+Alteracao realizada diretamente na branch main pelo Github.
